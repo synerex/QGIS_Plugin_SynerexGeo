@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/synerex_geo" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
